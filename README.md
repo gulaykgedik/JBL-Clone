@@ -9,16 +9,19 @@ Web sitesinin stillerini geliştirmek için SCSS kullanılmış olup, gelecektek
 
 - Duyarlı Tasarım: Hem masaüstü hem de mobil cihazlar için optimize edilmiştir.
 
--Modüler SCSS Yapısı: Daha iyi bakım ve ölçeklenebilirlik için düzenli SCSS dosyaları.
+- Modüler SCSS Yapısı: Daha iyi bakım ve ölçeklenebilirlik için düzenli SCSS dosyaları.
 
--Tarayıcı Uyumluluğu: Modern web tarayıcılarında sorunsuz çalışır.
+- Tarayıcı Uyumluluğu: Modern web tarayıcılarında sorunsuz çalışır.
 
--Özelleştirilebilir Stiller: Değişkenler ve karışımlar kullanılarak kolayca güncellenebilir ve özelleştirilebilir.
+- Özelleştirilebilir Stiller: Değişkenler ve karışımlar kullanılarak kolayca güncellenebilir ve özelleştirilebilir.
 
 # Ekran kaydı
 
 <br>
-![Jbl-clone](https://github.com/user-attachments/assets/57d9422a-a6a1-4dbd-8447-adace1d6e3b5)
+
+
+![Jbl-clone](https://github.com/user-attachments/assets/9d112bb2-4de1-44d1-a137-f7e8a335e08e)
+
 
 
 Saygılarımla....
